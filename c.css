@@ -1,0 +1,11 @@
+body{
+    background-image: url(./images/back.jpg);
+    
+    background-size: cover;
+    
+}
+.logo{
+    position: fixed;
+    bottom: 10;
+    right: 1;
+}
